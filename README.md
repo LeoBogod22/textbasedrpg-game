@@ -16,4 +16,4 @@ the game starts of in the root of the rpository with the player choosing his cha
 
 
 
-![alt text] https://github.com/LeoBogod22/textbasedrpg-game/blob/master/oie_T0xi6hE2run9.png
+![alt text]https://github.com/LeoBogod22/textbasedrpg-game/blob/master/oie_T0xi6hE2run9.png
