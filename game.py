@@ -2,6 +2,10 @@ from random import randint
 
 
 import os
+import battle 
+from game  import enemy 
+from game  import shop 
+from game  import battle
 
 import random
 
