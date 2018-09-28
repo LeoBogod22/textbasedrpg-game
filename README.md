@@ -1,7 +1,7 @@
 # textbasedrpg-game
 
 
-Python text based rpg game with some ASCII graphics.. It is by no means a good game, but I think there is some good code here. 
+Python text based rpg game with some ASCII graphics.. It is by no means a professional  game, but I think there is some good code here. 
 
 
 
